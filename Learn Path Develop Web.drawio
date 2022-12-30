@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T06:32:23.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="H9_YtPO-zeqjOE1PDYeW" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T06:41:16.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="X_34VJwI1BuOZCXpHD8C" version="20.7.4" type="github">
   <diagram id="wh1W36pk23jFmzXjL_Ck" name="Page-1">
-    <mxGraphModel dx="2001" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
         <mxCell id="EDyrPu7dQQNRPbhDMoSb-28" value="Learn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zgpdS88G5yF-iRk3dVeh-1" value="MongoDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="zgpdS88G5yF-iRk3dVeh-1" value="MongoDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="350" y="-20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgpdS88G5yF-iRk3dVeh-3" value="Purpose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -97,9 +97,6 @@
         </mxCell>
         <mxCell id="GpNULSgipzWVzFP5RHBc-3" value="Thứ cần phải học&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="572" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GpNULSgipzWVzFP5RHBc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-70" width="940" height="590" as="geometry" />
         </mxCell>
         <mxCell id="GpNULSgipzWVzFP5RHBc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GpNULSgipzWVzFP5RHBc-10" target="GpNULSgipzWVzFP5RHBc-11">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpNULSgipzWVzFP5RHBc-19" value="&lt;b&gt;&lt;u&gt;JHipster&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Install 7.1.0 for react, typescript" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GpNULSgipzWVzFP5RHBc-19" value="&lt;b&gt;&lt;u&gt;JHipster&lt;/u&gt;&lt;/b&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="340" y="-380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GpNULSgipzWVzFP5RHBc-25" value="Java 11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -160,6 +157,9 @@
         </mxCell>
         <mxCell id="GpNULSgipzWVzFP5RHBc-33" value="Require" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="-540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GpNULSgipzWVzFP5RHBc-35" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Install 7.1.0 for react, typescript&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Use &lt;b&gt;NPM &lt;/b&gt;for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;create,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;manage&amp;nbsp;libraries&amp;nbsp;to code JavaScript&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;for Node.js&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-370" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
