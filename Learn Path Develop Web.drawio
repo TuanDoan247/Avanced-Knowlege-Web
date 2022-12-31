@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-12-31T06:39:48.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="_bU4G6B850We3LJSoTKe" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-31T06:59:59.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="s6ZWxFkrDG-rBKqWLs0V" version="20.7.4" type="github">
   <diagram id="wh1W36pk23jFmzXjL_Ck" name="Page-1">
-    <mxGraphModel dx="2935" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-2" target="RfrjqeIpi_Nbvsf2yHIR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-2" target="RfrjqeIpi_Nbvsf2yHIR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-2" target="RfrjqeIpi_Nbvsf2yHIR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-2" value="Spring Boot/Restfull API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-4" target="RfrjqeIpi_Nbvsf2yHIR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-4" target="RfrjqeIpi_Nbvsf2yHIR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-4" value="Spring Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-5" target="RfrjqeIpi_Nbvsf2yHIR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-5" value="Spring Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-8" value="Authentication&lt;br&gt;-&amp;gt; JWT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-10" value="JPA/Hibernate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-12" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-13" target="RfrjqeIpi_Nbvsf2yHIR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-13" value="Docker" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-16" value="Localhost:8080" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="165" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-17" value="ReactJS/ AngularJS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="380" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-19" value="Call API: localhost:8080" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-22" value="&lt;i&gt;&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Chú Thích:&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="730" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-27" target="RfrjqeIpi_Nbvsf2yHIR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-28" value="done" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="805" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="RfrjqeIpi_Nbvsf2yHIR-30" target="RfrjqeIpi_Nbvsf2yHIR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="880" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RfrjqeIpi_Nbvsf2yHIR-31" value="learn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="885" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
